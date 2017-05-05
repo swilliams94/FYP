@@ -220,6 +220,17 @@ h5 {
     -o-animation-delay: 0.4s;
     -ms-animation-delay: 0.4s;
     animation-delay: 0.4s; }
+iframe{
+
+margin-top: 20px;
+margin-bottom: 30px;
+-webkit-border-radius: 12px;
+-moz-border-radius: 12px;
+-o-border-radius:12px;
+-ms-border-radius:12px;
+border-radius: 12px;    
+
+}
 
 .intro-text {
   text-align: center;
